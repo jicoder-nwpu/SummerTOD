@@ -1,0 +1,12 @@
+tqdm
+numpy
+tensorboardX
+sentencepiece
+
+spacy==3.0.8
+transformers==4.18.0
+nltk==3.6.7
+evaluate==0.3.0
+
+en-core-web-sm==3.0.0
+torch==1.7.1+cu92
